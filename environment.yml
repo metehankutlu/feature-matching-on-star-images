@@ -1,0 +1,8 @@
+name: feature-matching
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib=3.3.2=h06a4308_0
+  - numpy=1.19.2=py38h6163131_0
+  - opencv=4.5.0=py38h578d9bd_7
